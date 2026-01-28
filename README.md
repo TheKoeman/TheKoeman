@@ -1,7 +1,7 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=TheKoeman&fontAlign=50&fontAlignY=35&desc=Supabase%20%7C%20React%20%7C%20React%20Native%20%7C%20Tailwind%20%7C%20TypeScript&descAlign=50&descAlignY=60&color=0F172A"
-  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=TheKoeman&fontAlign=50&fontAlignY=35&desc=C%23%20%7C%20.NET%20%7C%20DevExpress%20%7C%20MSSQL&descAlign=50&descAlignY=60" />
+
 </div>
 
 ## 👋 Helló! Robi vagyok
