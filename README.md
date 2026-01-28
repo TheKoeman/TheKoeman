@@ -25,12 +25,6 @@ C# / .NET fejlesztő, DevExpress + MSSQL vonalon otthon vagyok. Szeretek “hard
 - 🧾 **Zsebzseni** – pénzügyi app / automatizált importok
 - 🏨 **Hotel Smart Lock** – TTLock integráció + 0/24 worker
 
-### 📊 Statok
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheKoeman&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoeman&layout=compact" />
-</div>
-
 ### 📫 Elérhetőség
 - 🌐 Web: https://koesoft.hu
 - 💬 Írj itt GitHubon: issue / discussion / DM
