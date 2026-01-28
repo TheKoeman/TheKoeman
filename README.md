@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=TheKoeman&fontAlign=50&fontAlignY=35&desc=C%23%20%7C%20.NET%20%7C%20DevExpress%20%7C%20MSSQL&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=TheKoeman&fontAlign=50&fontAlignY=35&desc=C%23%20%7C%20.NET%20%7C%20DevExpress%20%7C%20MSSQL&descAlign=50&descAlignY=60style=for-the-badge&color=34F4AE" />
 
 </div>
 
@@ -8,7 +8,7 @@
 C# / .NET fejlesztő, DevExpress + MSSQL vonalon otthon vagyok. Szeretek “hardverhez is nyúlni” (Raspberry Pi, IoT), és közben SaaS-okat építek.
 
 ### 🧰 Tech stack
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&labelColor=121212&color=34F4AE&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&labelColor=fafafa&color=34F4AE&logo=csharp)
 ![DevExpress](https://img.shields.io/badge/DevExpress-000?style=for-the-badge&log=&labelColor=121212&color=34F4AE)
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&labelColor=121212&color=34F4AE)
 
