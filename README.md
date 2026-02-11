@@ -21,9 +21,9 @@ C# / .NET fejlesztő, DevExpress + MSSQL vonalon otthon vagyok. Szeretek “hard
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&labelColor=121212&color=34F4AE&logo=supabase)
 ![MS SQL](https://img.shields.io/badge/MSSQL-000?style=for-the-badge&labelColor=121212&color=34F4AE&logo=mssql)
 ### 🚀 Kiemelt projektek
-- 🔒 **FuelShield** – IoT + backend + admin (WinForms/DevExpress)
-- 🧾 **Zsebzseni** – pénzügyi app / automatizált importok
-- 🏨 **Hotel Smart Lock** – TTLock integráció + 0/24 worker
+- 🔒 **FuelShield** – IoT + backend. Linux(PiOS Lite), API. Stack : C#, python, sqlite3.
+- 🧾 **Zsebzseni** – pénzügyi app / automatizált importok Stack : react, supabase.
+- 🏨 **Hotel Smart Lock** – TTLock integráció + 0/24 worker : react, supabase.
 
 ### 📫 Elérhetőség
 - 🌐 Web: https://koesoft.hu
